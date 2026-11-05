@@ -1,5 +1,5 @@
-# HeaLink – UI/UX Design Project
-Proyek perancangan antarmuka pengguna (UI) HeaLink sebagai bagian dari mata kuliah Psikologi Siber.
+# HeaLink – UI Design Project
+Proyek perancangan antarmuka pengguna (UI) sebagai bagian dari mata kuliah Psikologi Siber.
 
 ## Gambaran Proyek
 HeaLink merupakan konsep perancangan antarmuka platform digital yang ditujukan untuk membantu orang tua dari anak berkebutuhan khusus memperoleh akses informasi dan terhubung dengan tenaga profesional yang relevan. Proyek ini berfokus pada perancangan User Interface (UI) menggunakan Figma dengan mempertimbangkan kebutuhan dan kemudahan penggunaan bagi target pengguna.
@@ -24,9 +24,7 @@ Perancangan platform digital yang berfokus pada kemudahan akses informasi dan du
 1. **Problem Identification:** Mengidentifikasi permasalahan yang menjadi dasar perancangan.
 2. **User Needs Identification:** Menentukan kebutuhan target pengguna.
 3. **Feature Planning:** Menentukan kebutuhan fitur dalam rancangan produk.
-4. **User Flow:** Menyusun alur interaksi pengguna.
-5. **Wireframing:** Membuat kerangka awal antarmuka.
-6. **UI Design:** Merancang tampilan antarmuka.
+4. **UI Design:** Merancang tampilan antarmuka.
 
 ## Tools
 - Figma
